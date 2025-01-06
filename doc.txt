@@ -1,0 +1,10 @@
+
+Structure :
+
+/assets pour les fichiers CSS, JS et images.
+/includes pour les fichiers PHP communs (comme la configuration et la connexion à la base de données).
+/views pour les pages HTML.
+/actions pour les scripts PHP traitant les requêtes.
+/uploads pour stocker les images uploadées.
+
+
